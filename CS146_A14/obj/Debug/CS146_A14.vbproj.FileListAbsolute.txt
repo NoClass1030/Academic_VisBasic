@@ -1,0 +1,12 @@
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.frmA14.resources
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.Resources.resources
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.vbproj.GenerateResource.cache
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_A14\bin\Debug\CS146_A14.exe.config
+E:\source\repos\CS146_A14\bin\Debug\CS146_A14.exe
+E:\source\repos\CS146_A14\bin\Debug\CS146_A14.pdb
+E:\source\repos\CS146_A14\bin\Debug\CS146_A14.xml
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.exe
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.xml
+E:\source\repos\CS146_A14\obj\Debug\CS146_A14.pdb
