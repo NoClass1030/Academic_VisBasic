@@ -1,0 +1,11 @@
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.Resources.resources
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.vbproj.GenerateResource.cache
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_L25\bin\Debug\CS146_L25.exe.config
+E:\source\repos\CS146_L25\bin\Debug\CS146_L25.exe
+E:\source\repos\CS146_L25\bin\Debug\CS146_L25.pdb
+E:\source\repos\CS146_L25\bin\Debug\CS146_L25.xml
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.exe
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.xml
+E:\source\repos\CS146_L25\obj\Debug\CS146_L25.pdb
