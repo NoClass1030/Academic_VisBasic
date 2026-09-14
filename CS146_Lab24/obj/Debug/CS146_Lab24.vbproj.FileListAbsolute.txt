@@ -1,0 +1,12 @@
+C:\Users\natha\source\repos\CS146_Lab24\bin\Debug\CS146_Lab24.exe.config
+C:\Users\natha\source\repos\CS146_Lab24\bin\Debug\CS146_Lab24.exe
+C:\Users\natha\source\repos\CS146_Lab24\bin\Debug\CS146_Lab24.pdb
+C:\Users\natha\source\repos\CS146_Lab24\bin\Debug\CS146_Lab24.xml
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.vbproj.AssemblyReference.cache
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.Form1.resources
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.Resources.resources
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.vbproj.GenerateResource.cache
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.vbproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.exe
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.xml
+C:\Users\natha\source\repos\CS146_Lab24\obj\Debug\CS146_Lab24.pdb
