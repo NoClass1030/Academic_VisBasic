@@ -1,0 +1,12 @@
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.vbproj.AssemblyReference.cache
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.Resources.resources
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.vbproj.GenerateResource.cache
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.vbproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\CS146_Lab9\bin\Debug\CS146_Lab9.exe.config
+C:\Users\natha\source\repos\CS146_Lab9\bin\Debug\CS146_Lab9.exe
+C:\Users\natha\source\repos\CS146_Lab9\bin\Debug\CS146_Lab9.pdb
+C:\Users\natha\source\repos\CS146_Lab9\bin\Debug\CS146_Lab9.xml
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.frmCoinCompCalc.resources
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.exe
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.xml
+C:\Users\natha\source\repos\CS146_Lab9\obj\Debug\CS146_Lab9.pdb
