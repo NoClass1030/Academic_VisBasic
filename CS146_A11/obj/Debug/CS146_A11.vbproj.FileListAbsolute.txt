@@ -1,0 +1,12 @@
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.frmA11.resources
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.Resources.resources
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.vbproj.GenerateResource.cache
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_A11\bin\Debug\CS146_A11.exe.config
+E:\source\repos\CS146_A11\bin\Debug\CS146_A11.exe
+E:\source\repos\CS146_A11\bin\Debug\CS146_A11.pdb
+E:\source\repos\CS146_A11\bin\Debug\CS146_A11.xml
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.exe
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.xml
+E:\source\repos\CS146_A11\obj\Debug\CS146_A11.pdb

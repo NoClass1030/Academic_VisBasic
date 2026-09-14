@@ -1,0 +1,12 @@
+E:\source\repos\CS146_A12\bin\Debug\CS146_A12.exe.config
+E:\source\repos\CS146_A12\bin\Debug\CS146_A12.exe
+E:\source\repos\CS146_A12\bin\Debug\CS146_A12.pdb
+E:\source\repos\CS146_A12\bin\Debug\CS146_A12.xml
+E:\source\repos\CS146_A12\obj\Debug\CS146_Lab29.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_A12\obj\Debug\CS146_A12.frmLab29.resources
+E:\source\repos\CS146_A12\obj\Debug\CS146_A12.Resources.resources
+E:\source\repos\CS146_A12\obj\Debug\CS146_Lab29.vbproj.GenerateResource.cache
+E:\source\repos\CS146_A12\obj\Debug\CS146_Lab29.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_A12\obj\Debug\CS146_A12.exe
+E:\source\repos\CS146_A12\obj\Debug\CS146_A12.xml
+E:\source\repos\CS146_A12\obj\Debug\CS146_A12.pdb

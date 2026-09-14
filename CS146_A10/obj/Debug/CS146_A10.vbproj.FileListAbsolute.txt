@@ -1,0 +1,12 @@
+E:\source\repos\CS146_A10\bin\Debug\CS146_A10.exe.config
+E:\source\repos\CS146_A10\bin\Debug\CS146_A10.exe
+E:\source\repos\CS146_A10\bin\Debug\CS146_A10.pdb
+E:\source\repos\CS146_A10\bin\Debug\CS146_A10.xml
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.Resources.resources
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.vbproj.GenerateResource.cache
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.exe
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.xml
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.pdb
+E:\source\repos\CS146_A10\obj\Debug\CS146_A10.frmA10.resources
