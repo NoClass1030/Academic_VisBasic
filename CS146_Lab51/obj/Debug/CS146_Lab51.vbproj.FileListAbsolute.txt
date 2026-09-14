@@ -1,0 +1,12 @@
+E:\source\repos\CS146_Lab51\bin\Debug\CS146_Lab51.exe.config
+E:\source\repos\CS146_Lab51\bin\Debug\CS146_Lab51.exe
+E:\source\repos\CS146_Lab51\bin\Debug\CS146_Lab51.pdb
+E:\source\repos\CS146_Lab51\bin\Debug\CS146_Lab51.xml
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.Resources.resources
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.vbproj.GenerateResource.cache
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.exe
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.xml
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.pdb
+E:\source\repos\CS146_Lab51\obj\Debug\CS146_Lab51.frmLab51.resources
