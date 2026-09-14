@@ -1,0 +1,12 @@
+E:\source\repos\CS146_Lab47\bin\Debug\CS146_Lab47.exe.config
+E:\source\repos\CS146_Lab47\bin\Debug\CS146_Lab47.exe
+E:\source\repos\CS146_Lab47\bin\Debug\CS146_Lab47.pdb
+E:\source\repos\CS146_Lab47\bin\Debug\CS146_Lab47.xml
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.Form1.resources
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.Resources.resources
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.vbproj.GenerateResource.cache
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.exe
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.xml
+E:\source\repos\CS146_Lab47\obj\Debug\CS146_Lab47.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript>
+	<semester>
+		<year>2024<>
+		<term>Winter</term>
+		<course>CS-146</course>
+		<section>01</section>
+	</semester>
+
+	<semester>
+		<year>2023</year>
+		<term>Fall</term>
+		<course>CS-116</course>
+		<section>01</section>
+	</semester>
+	
+	<semester>
+		<year>2023</year>
+		<term>Winter</term>
+		<course>CS-105</course>
+		<section>01</section>
+	</semester>
+	
+	<semester>
+		<year>2022</year>
+		<term>Fall</term>
+		<course>ECE-216</course>
+		<section>01</section>
+	</semester>
+</transcript>
