@@ -1,0 +1,5 @@
+E:\source\repos\CS146_A16\obj\Debug\CS146_A16.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_A16\obj\Debug\CS146_A16.frmA16.resources
+E:\source\repos\CS146_A16\obj\Debug\CS146_A16.Resources.resources
+E:\source\repos\CS146_A16\obj\Debug\CS146_A16.vbproj.GenerateResource.cache
+E:\source\repos\CS146_A16\obj\Debug\CS146_A16.vbproj.CoreCompileInputs.cache
