@@ -1,0 +1,12 @@
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.vbproj.AssemblyReference.cache
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.frmLab53.resources
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.Resources.resources
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.vbproj.GenerateResource.cache
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.vbproj.CoreCompileInputs.cache
+E:\source\repos\CS146_Lab53\bin\Debug\CS146_Lab53.exe.config
+E:\source\repos\CS146_Lab53\bin\Debug\CS146_Lab53.exe
+E:\source\repos\CS146_Lab53\bin\Debug\CS146_Lab53.pdb
+E:\source\repos\CS146_Lab53\bin\Debug\CS146_Lab53.xml
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.exe
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.xml
+E:\source\repos\CS146_Lab53\obj\Debug\CS146_Lab53.pdb
